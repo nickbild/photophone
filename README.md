@@ -1,4 +1,4 @@
-# Photophone
+# Reviving the Photophone
 
 *Coming soon!*
 
