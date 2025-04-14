@@ -12,11 +12,15 @@ Alexander Graham Bell will forever be known for inventing the telephone — and 
 
 There are two main parts to a photophone, the transmitter and receiver. 
 
-![](https://raw.githubusercontent.com/nickbild/photophone/refs/heads/main/media/Photophone_transmitter_4074931746_9f996df841_b.jpg)
+| ![](https://raw.githubusercontent.com/nickbild/photophone/refs/heads/main/media/Photophone_transmitter_4074931746_9f996df841_b.jpg) | 
+|:--:| 
+| *A transmitter* |
 
 The most notable thing about the transmitter is that it contains no electronics whatsoever. A lens focuses sunlight on a flexible mirror at the end of a tube. When someone speaks into the other end of the tube, it causes the mirror to vibrate. Those vibrations, which encode the speaker’s voice, are then transmitted in the light that reflects off of the mirror.
 
-![](https://raw.githubusercontent.com/nickbild/photophone/refs/heads/main/media/800px-Photophone_receiver_4074172975_288f2808f0_o.jpg)
+| ![](https://raw.githubusercontent.com/nickbild/photophone/refs/heads/main/media/800px-Photophone_receiver_4074172975_288f2808f0_o.jpg) | 
+|:--:| 
+| *A receiver* |
 
 At the receiver, the light is collected and focused by a parabolic mirror with a selenium cell at its focal point. The selenium cell was an early photoresistor, so as the level of light falling on it varied, so did its electrical resistance. Current was passed through the cell and into an electromagnetic speaker, which turned the variations back into sound.
 
