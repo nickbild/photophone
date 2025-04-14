@@ -10,6 +10,8 @@ Alexander Graham Bell will forever be known for inventing the telephone — and 
 
 ## How It Works
 
+## Principle of Operation
+
 There are two main parts to a photophone, the transmitter and receiver. 
 
 | ![](https://raw.githubusercontent.com/nickbild/photophone/refs/heads/main/media/Photophone_transmitter_4074931746_9f996df841_b.jpg) | 
