@@ -26,7 +26,7 @@ At the receiver, the light from the transmitter is collected and focused by a pa
 
 ### Shedding Some Light on the Failure
 
-In 1880, Bell perfected the Photophone and made wireless voice calls at distances of up to 700 feet. So you could call it a success, but yet this idea never took off? Why? Because the Photophone used sunlight and lenses to focus light at a distance. You can only transmit just so far with this setup (this was 80 years before the laser was invented). It would also be difficult to scale, because line-of-sight needs to be maintained between all connection points, and the beams cannot cross without interfering with one another.
+In 1880, Bell perfected the Photophone and made wireless voice calls at distances of up to 700 feet. So you could call it a success, but yet this idea never took off. Why? Because the Photophone used sunlight and lenses to focus light at a distance. You can only transmit just so far with this setup (this was 80 years before the laser was invented). It would also be difficult to scale, because line-of-sight needs to be maintained between all connection points, and the beams cannot cross without interfering with one another.
 
 The work served as a predecessor to today's fiber optics, but building out an infrastructure of copper wire for the telephone proved to be simpler than a practical implementation of the Photophone.
 
