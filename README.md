@@ -40,7 +40,7 @@ Even still, the Photophone is a fascinating invention. It was so far ahead of it
 |:--:| 
 | *My transmitter* |
 
-Above is my transmitter. It is a pill bottle with the lid removed for speaking into. The other end of the bottle was melted out with a soldering iron with an old tip. A balloon was stretched over this end to act as a flexible diaphragm. A small mirror was hot-glued to the diaphragm. When sound enters the open end of the bottle, it causes the diaphragm (and the attached mirror) to vibrate. Light being reflected off of that mirror picks up the vibrations.
+Above is my transmitter. It is a pill bottle attached to a tripod, with the lid removed for speaking into. The other end of the bottle was melted out with a soldering iron with an old tip. A balloon was stretched over this end to act as a flexible diaphragm. A small mirror was hot-glued to the diaphragm. When sound enters the open end of the bottle, it causes the diaphragm (and the attached mirror) to vibrate. Light being reflected off of that mirror picks up the vibrations.
 
 | ![](https://raw.githubusercontent.com/nickbild/photophone/refs/heads/main/media/my_receiver_1_sm.png) | 
 |:--:| 
