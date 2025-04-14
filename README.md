@@ -1,10 +1,10 @@
 # Reviving the Photophone
 
-Believe it or not, the world's first wireless phone call was placed in 1880. I've recreated Alexander Graham Bell's Photophone that made it possible, and you can too.
+Believe it or not, the world's first wireless phone call was placed in 1880. I've recreated Alexander Graham Bell's photophone that made it possible, and you can too.
 
 ![](https://raw.githubusercontent.com/nickbild/photophone/refs/heads/main/media/logo.jpg)
 
-Alexander Graham Bell will forever be known for inventing the telephone — and not much else (although he was a prolific inventor). Despite the success of the telephone, Bell considered the Photophone, which he perfected four years after patenting the telephone, to be his greatest invention. He was right that wireless phones were the future, but as it turned out, the Photophone was not the technology that would take us to that future.
+Alexander Graham Bell will forever be known for inventing the telephone — and not much else (although he was a prolific inventor). Despite the success of the telephone, Bell considered the photophone, which he perfected four years after patenting the telephone, to be his greatest invention. He was right that wireless phones were the future, but as it turned out, the photophone was not the technology that would take us to that future.
 
 ## How It Works
 
@@ -26,13 +26,13 @@ At the receiver, the light from the transmitter is collected and focused by a pa
 
 ### Shedding Some Light on the Failure
 
-In 1880, Bell perfected the Photophone and made wireless voice calls at distances of up to 700 feet. So you could call it a success, but yet this idea never took off. Why? Because the Photophone used sunlight and lenses to focus light at a distance. You can only transmit just so far with this setup (this was 80 years before the laser was invented). It would also be difficult to scale, because line-of-sight needs to be maintained between all connection points, and the beams cannot cross without interfering with one another.
+In 1880, Bell perfected the photophone and made wireless voice calls at distances of up to 700 feet. So you could call it a success, but yet this idea never took off. Why? Because the photophone used sunlight and lenses to focus light at a distance. You can only transmit just so far with this setup (this was 80 years before the laser was invented). It would also be difficult to scale, because line-of-sight needs to be maintained between all connection points, and the beams cannot cross without interfering with one another.
 
-The work served as a predecessor to today's fiber optics, but building out an infrastructure of copper wire for the telephone proved to be simpler than a practical implementation of the Photophone.
+The work served as a predecessor to today's fiber optics, but building out an infrastructure of copper wire for the telephone proved to be simpler than a practical implementation of the photophone.
 
 ### Bringing the Photophone Back to Life
 
-Even still, the Photophone is a fascinating invention. It was so far ahead of its time, and it operated on such a clever and simple mechanism. So, I just had to recreate Bell's greatest invention, and this is how I did it.
+Even still, the photophone is a fascinating invention. It was so far ahead of its time, and it operated on such a clever and simple mechanism. So, I just had to recreate Bell's greatest invention, and this is how I did it.
 
 | ![](https://raw.githubusercontent.com/nickbild/photophone/refs/heads/main/media/my_transmitter_sm.png) | 
 |:--:| 
