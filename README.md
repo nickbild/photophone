@@ -50,6 +50,18 @@ Above is my transmitter. It is a pill bottle with the lid removed for speaking i
 |:--:| 
 | *My receiver - front* |
 
+As for the receiver, I have used a paper cup that is covered in Gorilla tape to block out ambient light. At the back, in the center, there’s a photoresistor. I have a lens that refocuses the light onto that photoresistor. 
+
+Current passes through the photoresistor, which is in series with a 10,000 ohm resistor, and as light from the transmitter is received, the current varies. It outputs to an electromagnetic speaker — this much more modern than the one Bell used of course, and with an amplifier circuit built-in, but it operates on the same principles.
+
+You may have noticed by now that there is just 1 lens in the build. That’s because I chose to use a laser instead of sunlight. This modern addition doesn’t change the principles of operation at all, but does let me avoid using most of the mirrors and lenses. If Bell had a laser available to him, I have no doubt he would have used it.
+
+I have 5 volts DC running through the circuit, and one note on that — use a decent quality power supply. If it’s not a clean DC signal, you might get oscillations that distort the audio. I had that happen with cheap AC adapters.
+
+When you have the components assembled, you just need to line them up. The laser needs to shine on the transmitter’s mirror, and that needs to reflect back to the receiver’s photoresistor. Then when sounds are made near the back of the transmitter, they will instantly be reproduced by the speaker. 
+
+That’s it. You’ve got the world’s first wireless phone!
+
 ## Media
 
 ## Bill of Materials
