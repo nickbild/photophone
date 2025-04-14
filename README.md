@@ -50,7 +50,7 @@ Above is my transmitter. It is a pill bottle attached to a tripod, with the lid 
 
 As for the receiver, I have used a paper cup that is covered in Gorilla tape to block out ambient light. At the back, in the center, there’s a photoresistor. I have a lens that refocuses the incoming light onto that photoresistor. 
 
-Current passes through the photoresistor, which is in series with a 10,000 ohm resistor, and as light from the transmitter is received, the current varies. It outputs to an electromagnetic speaker — this much more modern than the one Bell used of course, and with an amplifier circuit built-in, but it operates on the same principles.
+Current passes through the photoresistor, which is in series with a 10,000 ohm resistor, and as light from the transmitter is received, the current varies. It outputs to an electromagnetic speaker — one that is much more modern than the one Bell used of course, and with an amplifier circuit built-in — but it operates on the same principles.
 
 You may have noticed by now that there is just 1 lens in the build. That’s because I chose to use a laser instead of sunlight. This modern addition doesn’t change the principles of operation at all, but does let me avoid using most of the mirrors and lenses. If Bell had a laser available to him, I have no doubt he would have used it.
 
