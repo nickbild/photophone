@@ -70,6 +70,20 @@ That’s it. You’ve got the world’s first wireless phone!
 
 ## Bill of Materials
 
+- 1 x Photoresistor
+- 1 x 10K ohm resistor
+- 1 x Laser Diode — 5mW 650nm Red
+- 1 x Pill bottle
+- 1 x Balloon
+- 1 x Small mirror
+- 1 x Paper cup
+- 1 x TRRS cable
+- 1 x TRRS cable breakout board
+- 1 x Convex lens
+- 1 x Speaker
+- Wires
+- Gorilla tape
+
 ## About the Author
 
 [Nick A. Bild, MS](https://nickbild79.firebaseapp.com/#!/)
