@@ -62,6 +62,10 @@ When you have the components assembled, you just need to line them up. The laser
 
 That’s it. You’ve got the world’s first wireless phone!
 
+| ![](https://raw.githubusercontent.com/nickbild/photophone/refs/heads/main/media/circuit.png) | 
+|:--:| 
+| *Receiver circuit* |
+
 ## Media
 
 ## Bill of Materials
