@@ -32,6 +32,14 @@ In 1880, Bell perfected the Photophone and made wireless voice calls at distance
 
 The work served as a predecessor to today's fiber optics, but building out an infrastructure of copper wire for the telephone proved to be simpler than a practical implementation of the Photophone.
 
+### Bringing the Photophone Back to Life
+
+Even still, the Photophone is a fascinating invention. It was so far ahead of its time, and it operated on such a clever and simple mechanism. So, I just had to recreate Bell's greatest invention, and this is how I did it.
+
+| ![](https://raw.githubusercontent.com/nickbild/photophone/refs/heads/main/media/my_transmitter_sm.png) | 
+|:--:| 
+| *My transmitter* |
+
 ## Media
 
 ## Bill of Materials
