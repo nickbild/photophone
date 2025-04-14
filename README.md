@@ -6,6 +6,9 @@ Believe it or not, the world's first wireless phone call was placed in 1880. I'v
 
 Alexander Graham Bell will forever be known for inventing the telephone — and not much else (although he was a prolific inventor). Despite the success of the telephone, Bell considered the photophone, which he perfected four years after patenting the telephone, to be his greatest invention. He was right that wireless phones were the future, but as it turned out, the photophone was not the technology that would take us to that future.
 
+Watch the demo on YouTube:
+<a href="https://www.youtube.com/watch?v=XQ86fkRRS5M">![](https://raw.githubusercontent.com/nickbild/photophone/refs/heads/main/media/video_teaser.png)</a>
+
 ## How It Works
 
 ### Principle of Operation
