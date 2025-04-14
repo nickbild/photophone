@@ -24,7 +24,7 @@ The most notable thing about the transmitter is that it contains no electronics 
 |:--:| 
 | *A receiver* |
 
-At the receiver, the light is collected and focused by a parabolic mirror with a selenium cell at its focal point. The selenium cell was an early photoresistor, so as the level of light falling on it varied, so did its electrical resistance. Current was passed through the cell and into an electromagnetic speaker, which turned the variations back into sound.
+At the receiver, the light from the transmitter is collected and focused by a parabolic mirror with a selenium cell at its focal point. The selenium cell was an early photoresistor, so as the level of light falling on it varied, so did its electrical resistance. Current was passed through the cell and into an electromagnetic speaker, which turned the variations back into sound.
 
 ## Media
 
